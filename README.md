@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=niteshsinwar&color=blue)•
 
 - 🌱 I’m addicted to learning and growing every day.
-- 🔭 I’m currently working  in technical department Of Google-Dsc & Geek-for-Seeks club.
+- 🔭 I’m currently working  in technical department Of Google-Dsc.
 - 🌱 I’m currently pursuing B.tech CSE with spcialization in Data Science(ML) with UpGrad.
-- 👯 I’m looking to collaborate on Android(java),MERN-Stack and Python Projects.
+- 👯 I’m looking to collaborate on Android(java), MERN-Stack and Python Projects.
 - 📫 How to reach me: [@NiteshSinwar||Linkedin][linkedin] or say 👋 on Email at [niteshsinwar@gmail.com](mailto:niteshsinwar@gmail.com)
 - 😄 Pronouns: He/Him
 
@@ -21,35 +21,32 @@
 <br />
 
 ### Languages, Tools and Technologies:
-Technologies
-Here are some of the tools and technologies that I work with:
 
-Programming Languages
-JavaScript
-Python
-Java
-C#
-HTML/CSS
-Libraries and Frameworks
-React
-Node.js
-Express
-Django
-Flask
-Spring
-Databases
-MongoDB
-MySQL
-PostgreSQL
-Redis
-Firebase
-Tools and Platforms
-Git/GitHub
-Docker
-AWS
-Heroku
-Netlify
-Visual Studio Code
+# Programming Languages
+- Java
+- Python
+- Javascript
+
+# Libraries and Frameworks
+- React
+- Node.js
+- Express
+- Laravel
+- Numpy
+- Seaborn
+- Matplotlib
+
+# Databases
+- MongoDB
+- Firebase
+- MySQL
+
+# Tools and Platforms
+- Android studio
+- docker
+- Jupyter notebook
+- Tableau
+
 <br />
 <br />
 <br />
