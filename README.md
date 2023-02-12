@@ -22,22 +22,27 @@
 
 ## Languages, Tools and Technologies:
 
+### Programming Languages
+- 💻 Java
+- 💻 Python
+- 💻 Javascript
 
-### Programming Languages | Libraries and Frameworks
-- 💻 Java | 🌐 React
-- 💻 Python | 🌐 Node.js
-- 💻 Javascript | 🌐 Express
-- | 🌐 Laravel
-- | 📊 Numpy
-- | 📊 Seaborn
-- | 📊 Matplotlib
+### Libraries and Frameworks
+- 🌐 React
+- 🌐 Node.js
+- 🌐 Laravel
+- 📊 Numpy
+- 📊 Matplotlib
 
-### Databases | Tools and Platforms
-- 🗄️ MongoDB | 📱 Android Studio
-- 🗄️ Firebase | 🐳 Docker
-- 🗄️ MySQL | 📓 Jupyter Notebook
-- | 📊 Tableau
+## Databases
+- 🗄️ MongoDB
+- 🗄️ Firebase
+- 🗄️ MySQL
 
+## Tools and Platforms
+- 📱 Android Studio
+- 📓 Jupyter Notebook
+- 📊 Tableau
 <br />
 
 ## <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
