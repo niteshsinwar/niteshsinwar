@@ -22,30 +22,21 @@
 
 ## Languages, Tools and Technologies:
 
-### Programming Languages
-- Java
-- Python
-- Javascript
 
-### Libraries and Frameworks
-- React
-- Node.js
-- Express
-- Laravel
-- Numpy
-- Seaborn
-- Matplotlib
+### Programming Languages | Libraries and Frameworks
+- 💻 Java | 🌐 React
+- 💻 Python | 🌐 Node.js
+- 💻 Javascript | 🌐 Express
+- | 🌐 Laravel
+- | 📊 Numpy
+- | 📊 Seaborn
+- | 📊 Matplotlib
 
-### Databases
-- MongoDB
-- Firebase
-- MySQL
-
-### Tools and Platforms
-- Android studio
-- docker
-- Jupyter notebook
-- Tableau
+### Databases | Tools and Platforms
+- 🗄️ MongoDB | 📱 Android Studio
+- 🗄️ Firebase | 🐳 Docker
+- 🗄️ MySQL | 📓 Jupyter Notebook
+- | 📊 Tableau
 
 <br />
 
