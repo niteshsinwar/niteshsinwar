@@ -1,4 +1,4 @@
-### Hi there, I'm Nitesh Sinwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Nitesh Sinwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://komarev.com/ghpvc/?username=niteshsinwar&color=blue)•
 
@@ -9,7 +9,7 @@
 - 📫 How to reach me: [@NiteshSinwar||Linkedin][linkedin] or say 👋 on Email at [niteshsinwar@gmail.com](mailto:niteshsinwar@gmail.com)
 - 😄 Pronouns: He/Him
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="niteshsinwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="niteshsinwar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -20,14 +20,14 @@
 
 <br />
 
-### Languages, Tools and Technologies:
+## Languages, Tools and Technologies:
 
-# Programming Languages
+### Programming Languages
 - Java
 - Python
 - Javascript
 
-# Libraries and Frameworks
+### Libraries and Frameworks
 - React
 - Node.js
 - Express
@@ -36,12 +36,12 @@
 - Seaborn
 - Matplotlib
 
-# Databases
+### Databases
 - MongoDB
 - Firebase
 - MySQL
 
-# Tools and Platforms
+### Tools and Platforms
 - Android studio
 - docker
 - Jupyter notebook
@@ -52,7 +52,7 @@
 <br />
 <br />
 
-<h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
+## <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 <br>
 <p align="center">
 <a href="https://github.com/niteshsinwar">
