@@ -48,12 +48,10 @@
 - Tableau
 
 <br />
-<br />
-<br />
-<br />
 
 ## <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 <br>
+
 <p align="center">
 <a href="https://github.com/niteshsinwar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niteshsinwar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
@@ -67,8 +65,6 @@
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshsinwar&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </p> 
-
-  
   
   ### 📕 Latest Blog posts:
 - [Complete CSE GUIDE-BOOK](https://www.slideshare.net/NiteshSinwar/cse-guide-book)
