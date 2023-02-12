@@ -27,14 +27,14 @@
 - 💻 Python
 - 💻 Javascript
 
-### Libraries and Frameworks
+## Libraries and Frameworks
 - 🌐 React
 - 🌐 Node.js
 - 🌐 Laravel
 - 📊 Numpy
 - 📊 Matplotlib
 
-## Databases
+### Databases
 - 🗄️ MongoDB
 - 🗄️ Firebase
 - 🗄️ MySQL
@@ -45,7 +45,7 @@
 - 📊 Tableau
 <br />
 
-## <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
+ <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 <br>
 
 <p align="center">
