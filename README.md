@@ -27,7 +27,7 @@
 - 💻 Python
 - 💻 Javascript
 
-## Libraries and Frameworks
+### Libraries and Frameworks
 - 🌐 React
 - 🌐 Node.js
 - 🌐 Laravel
@@ -39,7 +39,7 @@
 - 🗄️ Firebase
 - 🗄️ MySQL
 
-## Tools and Platforms
+### Tools and Platforms
 - 📱 Android Studio
 - 📓 Jupyter Notebook
 - 📊 Tableau
