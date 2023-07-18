@@ -1,12 +1,13 @@
-## Hi there, I'm Nitesh Sinwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Nitesh Sinwar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://komarev.com/ghpvc/?username=niteshsinwar&color=blue)•
 
 - 🌱 I’m addicted to learning and growing every day.
-- 🔭 I’m currently working  in technical department Of Google-Dsc.
-- 🌱 I’m currently pursuing B.tech CSE with spcialization in Data Science(ML) with UpGrad.
-- 👯 I’m looking to collaborate on Android(java), MERN-Stack and Python Projects.
-- 📫 How to reach me: [@NiteshSinwar||Linkedin][linkedin] or say 👋 on Email at [niteshsinwar@gmail.com](mailto:niteshsinwar@gmail.com)
+- 🔭 I’m currently working as a Software Engineer Intern at Aethereus.
+- 👨‍💻 I'm an ex-member of Google Developer Student Clubs (GDSC).
+- 🎓 I'm a 3rd-year undergraduate student pursuing B.Tech in Computer Science and Engineering with a specialization in Data Science (ML) at UpGrad.
+- 👯 I’m looking to collaborate on Android (Java), MERN-Stack, and Python projects.
+- 📫 How to reach me: [@NiteshSinwar](https://www.linkedin.com/in/nitesh-sinwar/) on LinkedIn or drop me an email at [niteshsinwar@gmail.com](mailto:niteshsinwar@gmail.com).
 - 😄 Pronouns: He/Him
 
 ## Connect with me:
@@ -25,7 +26,7 @@
 ### Programming Languages
 - 💻 Java
 - 💻 Python
-- 💻 Javascript
+- 💻 JavaScript
 
 ### Libraries and Frameworks
 - 🌐 React
@@ -43,6 +44,7 @@
 - 📱 Android Studio
 - 📓 Jupyter Notebook
 - 📊 Tableau
+
 <br />
 
  <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
